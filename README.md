@@ -1,4 +1,4 @@
 # ARTI123
 this is my first repository.
 <br>
-Author-Arti arya
+Author-Arti Arya
